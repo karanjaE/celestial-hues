@@ -18,6 +18,9 @@ export default {
       },
     },
     extend: {
+      borderColor: {
+        border: "var(--border)",
+      },
       colors: {
         yinmn: {
           DEFAULT: "#1d497c",
