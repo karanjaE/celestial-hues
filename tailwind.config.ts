@@ -21,6 +21,12 @@ export default {
       borderColor: {
         border: "var(--border)",
       },
+      backgroundColor: {
+        background: "hsl(var(--background))",
+      },
+      textColor: {
+        foreground: "hsl(var(--foreground))",
+      },
       colors: {
         yinmn: {
           DEFAULT: "#1d497c",
