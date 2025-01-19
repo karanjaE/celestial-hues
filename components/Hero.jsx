@@ -26,7 +26,7 @@ export function Hero() {
         
         <div className="w-full lg:w-1/2 mt-12 lg:mt-0 animate-fade-in">
           <Image
-            src="/hero-image.png"
+            src="/lovable-uploads/1d74316e-7b79-4e5b-8d30-17db7d912482.png"
             alt="Tech Professionals"
             width={800}
             height={600}

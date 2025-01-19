@@ -14,7 +14,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
             <Image
-              src="/logo.png"
+              src="/lovable-uploads/1d74316e-7b79-4e5b-8d30-17db7d912482.png"
               alt="BantuTech Logo"
               width={32}
               height={32}

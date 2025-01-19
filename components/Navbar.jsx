@@ -8,7 +8,7 @@ export function Navbar() {
       <div className="container mx-auto px-4 h-16 flex items-center justify-between">
         <Link href="/" className="flex items-center space-x-2">
           <Image
-            src="/logo.png"
+            src="/lovable-uploads/1d74316e-7b79-4e5b-8d30-17db7d912482.png"
             alt="BantuTech Logo"
             width={32}
             height={32}
